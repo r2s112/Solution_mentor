@@ -1,0 +1,36 @@
+body{
+    margin-top: 75px;
+    background-color: #DEE9F7
+}
+img{
+
+    border-radius: 15px;
+    margin-top: 20px;
+    width: 300px;
+    height: 300px;
+}
+.name{
+    border-style: hidden;
+    box-shadow: 3px 14px rgba(0, 24, 66, 0.025);
+
+    border-radius: 25px;
+    background-color: white;
+    height: 515px;
+    width: 325px;
+
+}
+.bold-text{
+    margin-top: 30px;
+    font-family: "Arial Black";
+    font-size: 21px;
+}
+.text-two{
+    color: #B4BCC2;
+}
+.attribution{
+    font-size: 11px; text-align: center;
+    margin-top: 20px;
+}
+.attribution a{
+    color: hsl(228, 45%, 44%);
+}
